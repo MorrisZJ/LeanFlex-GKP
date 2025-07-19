@@ -14,6 +14,7 @@ In this work, we argue the best practice to introduce such dynamic operation to 
 ## ✅ TODO List
 
 ### 📄 Documentation & Release
+- [X] Draft README
 - [ ] Usage examples in `README.md`  
 - [ ] Example configs and demo notebook  
 - [ ] Package with `setup.py` and publish to PyPI  
